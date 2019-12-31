@@ -11,6 +11,6 @@ public class TestgitApplication {
     }
 
     public void m1() {
-
+        System.out.println("你好，在吗？");
     }
 }
