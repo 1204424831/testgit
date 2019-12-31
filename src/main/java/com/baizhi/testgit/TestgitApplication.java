@@ -12,5 +12,6 @@ public class TestgitApplication {
 
     public void m1() {
         System.out.println("你好，在吗？");
+        System.out.println("你干嘛呢？弟弟");
     }
 }
